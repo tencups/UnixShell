@@ -1,7 +1,3 @@
-/*
-118985251
-*/
-
 #include "executor.h"
 #include "command.h"
 #include <stdio.h>
